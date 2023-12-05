@@ -3,6 +3,10 @@ information about the company in a structured way.
 
 In order to execute it you should:
 - Update dependencies
+    ```
     pip install -r requirements.txt
+    ```
 - Run the script
+    ```
     python app.py
+    ```
